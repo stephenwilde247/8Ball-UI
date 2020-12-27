@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images/all">
+        <file>Images/magic-8-hed-2015.jpg</file>
+        <file>Images/TheBall.png</file>
+    </qresource>
+</RCC>

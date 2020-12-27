@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>../FX/MagicFX.mp3</file>
+        <file>../FX/MagicFX.ogg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>tester.qrc</file>
+    </qresource>
+</RCC>
